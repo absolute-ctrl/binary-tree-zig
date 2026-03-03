@@ -1,0 +1,6 @@
+.idea/
+*.iml
+.zig-cache/
+*.exe
+*.pdb
+out/
